@@ -316,6 +316,7 @@ main {
     font-size: 32px;        /* increase size */
     font-weight: 600;       /* make it slightly bold */
     margin: 20px 0;         /* spacing */
+    color: #e91e63;       /* pink color */
 }
 /* Carousel */
 .carousel-container {

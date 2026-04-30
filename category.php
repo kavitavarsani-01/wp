@@ -24,7 +24,7 @@ $products = $result->fetch_all(MYSQLI_ASSOC);
     <section class="products-section">
         <div class="container">
 
-          <h2 class="category-title"><?php echo ucfirst($type); ?> Collection</h2>
+          <h2 class="category-title"><?php echo ucfirst($type); ?>Casual Collection</h2>
 
             <div class="products-grid">
 
@@ -43,4 +43,4 @@ $products = $result->fetch_all(MYSQLI_ASSOC);
 </main>
 
 <?php require_once 'includes/footer.php'; ?>
-<?php echo "TESTING"; ?>    
+    
