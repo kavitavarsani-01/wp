@@ -311,6 +311,12 @@ main {
     margin-bottom: 40px;
 }
 
+.category-title {
+    text-align: center;     /* center align */
+    font-size: 32px;        /* increase size */
+    font-weight: 600;       /* make it slightly bold */
+    margin: 20px 0;         /* spacing */
+}
 /* Carousel */
 .carousel-container {
     position: relative;
