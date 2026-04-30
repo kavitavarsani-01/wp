@@ -43,3 +43,4 @@ $products = $result->fetch_all(MYSQLI_ASSOC);
 </main>
 
 <?php require_once 'includes/footer.php'; ?>
+<?php echo "TESTING"; ?>
